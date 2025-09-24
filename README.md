@@ -4,7 +4,7 @@ Authify is a secure **full-stack authentication system** built with **ReactJS** 
 It provides user authentication and authorization with JWT, email verification, and role-based access using Spring Security.  
 
 ---
-
+ 
 ## ✨ Features / Functionality
 - 🔐 **User Registration & Login** – Signup and login forms with validation  
 - 🔑 **JWT Authentication** – Secure session handling with JSON Web Tokens  
